@@ -1,0 +1,56 @@
+body { 
+    font-family: sans-serif;
+}
+p{
+    font-size: 70%;
+}
+.key-dot{
+display: inline-block;
+    height: 10px;
+    margin-right: .5em;
+    width: 10px;
+}
+.county-name{
+    margin: 0 !important;
+}
+#Container{
+    width: 100%;
+    position: relative;
+}
+#chart{
+   float: left;
+   margin: auto;
+   /*display: inline-block;
+    width: 650;
+    height: 500;
+    position: absolute;
+    margin-right: 10px;
+    padding-right: 10px;*/
+}
+.legend{
+    /*margin-right: 20px;*/
+    position: relative;
+    z-index: -1;
+}
+.SC{ background: #003C60;
+}
+.SM{ background: #0088CA;
+}
+.AC{ background: #9b111e;
+}
+/*.AM{ background: #B11116;
+}*/
+.AM{ background: #ff4c4c;
+}
+.ARC{ background: #339933;
+}
+.ARM{ background: #99ff99;
+}
+.BC{ background: #008080;
+}
+.BM{ background: #91BABF;
+}
+.WC{ background: #663399;
+}
+.WM{ background: #936C98;
+}
