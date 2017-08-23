@@ -32,25 +32,9 @@ display: inline-block;
     position: relative;
     z-index: -1;
 }
-.SC{ background: #003C60;
+.AC{ background: #ff4c4c;
 }
-.SM{ background: #0088CA;
+.WC{ background: #339933;
 }
-.AC{ background: #9b111e;
-}
-/*.AM{ background: #B11116;
-}*/
-.AM{ background: #ff4c4c;
-}
-.ARC{ background: #339933;
-}
-.ARM{ background: #99ff99;
-}
-.BC{ background: #008080;
-}
-.BM{ background: #91BABF;
-}
-.WC{ background: #663399;
-}
-.WM{ background: #936C98;
+.PGH{ background: steelblue;
 }
